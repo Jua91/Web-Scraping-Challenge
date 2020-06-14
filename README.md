@@ -21,13 +21,14 @@ A web application that scrapes various websites for data related to the Mission 
 ### Mars Hemispheres
 * Obtain urls of high resolution images for each of Mar's hemispheres
 
-#### Output-file(s):  mission_to_mars.ipynb
+#### File(s):  mission_to_mars.ipynb
 
 
 ## MongoDB and Flask Application
 
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 
-#### Output-file(s): app.py, scrape_mars.py, nbconvert.ipnyb
+#### File(s): app.py, scrape_mars.py, nbconvert.ipnyb
 
+### Screenshot of application
 ![Mars_Data.png](Mars_Data.png)
